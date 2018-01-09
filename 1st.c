@@ -2,11 +2,11 @@
 void main()
 {
 int n;
-printf(" enter the number");
+printf(" give the number");
 scanf("%d",&n);
 if(n<0)
 {
-printf(" %d is a negative number");
+printf(" %d is  negative number");
 }
 else
 {
