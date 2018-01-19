@@ -2,13 +2,13 @@
 
 void main() {
    int a,b,i;
-   printf("Enter the two limits:");
+   printf("Enter any two limits:");
    scanf("%d%d",&a,&b);
    for(i=a;i<=b;i++)
    {
        if((i%2)==0)
        {
-           printf("The even numberds are :%d",i);
+           printf("The even numbers are :%d",i);
           printf("\n");
                  }
    }
