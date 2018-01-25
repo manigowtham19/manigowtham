@@ -1,11 +1,11 @@
 #include <stdio.h>
 #include<string.h>
-int  main()
+void  main()
 {
 int m,n;char a[20],b[20];
 
 	
-	printf("enter the value of a and b");
+	printf("enter  value of a and b");
 	scanf("%s %s",&a,&b);
 	m=strlen(a);
 	n=strlen(b);
@@ -18,5 +18,4 @@ int m,n;char a[20],b[20];
 		printf("%s",b);
 	}
 	
-	return 0;
 }
