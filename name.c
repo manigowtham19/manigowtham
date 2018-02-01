@@ -3,7 +3,7 @@ int main()
 {
   int num,i=0,x,d;
   char *str[2000];
-  printf ("Enter an integer value: \n");
+  printf ("Enter  integer value: \n");
   scanf ("%d",&num);
   while(num!=0)
   {
