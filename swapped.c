@@ -2,12 +2,12 @@
 
 int main()
 {
-    int a,b,s;
+    int i,b,s;
     scanf("%d%d",&a,&b);
-    s=a;
-    a=b;
+    s=i;
+    i=b;
     b=s;
-    printf("%d %d",a,b);
+    printf("%d %d",i,b);
     return 0;
 }
 
