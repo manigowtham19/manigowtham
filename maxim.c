@@ -20,5 +20,4 @@ a[j]=temp;
 }
 }
 printf("%d",a[0]);
-return 0;
 }
