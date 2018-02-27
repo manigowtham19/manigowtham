@@ -1,4 +1,4 @@
-n=float(input("Enter any decimal value:"))
+n=float(input("Enter the decimal value:"))
 if(n<0):
 	a=int(n-0.5)
 else:
