@@ -1,4 +1,4 @@
-num=int(input("Enter number:"))
+num=int(input("Enter any of number:"))
 ans=''
 while(num!=0):
 	t=num%10
