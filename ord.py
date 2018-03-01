@@ -1,2 +1,2 @@
-ip=input("Enter any character:")
-print(ord(ip))
+st=input("Enter the character:")
+print(ord(st))
