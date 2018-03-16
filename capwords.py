@@ -1,2 +1,3 @@
-import string
-print(string.capwords("they're bill's friends from the UK"))
+c=input("Enter the alphabet")
+ans=ord(c)-96
+print("The ASCII value of '" + c + "' is",ans)
