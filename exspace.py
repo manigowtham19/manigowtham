@@ -1,3 +1,3 @@
-oldstr="aab xxy"
-newstr=oldstr.replace(" ","")
+oldstr="aab  xxy"
+newstr=oldstr.replace("  "," ")
 print(newstr)
