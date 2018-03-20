@@ -1,4 +1,4 @@
-s = "Kilometer"
+s = input("Enter the lowercase word")
 print(s.upper())
-t="KILOMETER"
+t=input("Enter the uppercase word")
 print(t.lower())
